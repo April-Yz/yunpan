@@ -1,0 +1,11 @@
+[console_scripts]
+Replica_pub = learning_topic.Replica_pub:main
+Replica_sub = learning_topic.Replica_sub:main
+interface_object_pub = learning_topic.interface_object_pub:main
+interface_object_sub = learning_topic.interface_object_sub:main
+sub_test = learning_topic.sub_test:main
+topic_helloworld_pub = learning_topic.topic_helloworld_pub:main
+topic_helloworld_sub = learning_topic.topic_helloworld_sub:main
+topic_webcam_pub = learning_topic.topic_webcam_pub:main
+topic_webcam_sub = learning_topic.topic_webcam_sub:main
+

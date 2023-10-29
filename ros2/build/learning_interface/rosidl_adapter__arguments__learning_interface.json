@@ -1,0 +1,9 @@
+{
+  "package_name": "learning_interface",
+  "non_idl_tuples": [
+    "/home/yang/abc/src/ros2_test/learning_interface:msg/ObjectPosition.msg",
+    "/home/yang/abc/src/ros2_test/learning_interface:srv/AddTwoInts.srv",
+    "/home/yang/abc/src/ros2_test/learning_interface:srv/GetObjectPosition.srv",
+    "/home/yang/abc/src/ros2_test/learning_interface:action/MoveCircle.action"
+  ]
+}

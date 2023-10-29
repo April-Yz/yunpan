@@ -1,0 +1,9 @@
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/uninstall.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/learning_pkg_c_uninstall.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/test.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/edit_cache.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/rebuild_cache.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/list_install_components.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/install.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/install/local.dir
+/home/yang/abc/build/learning_pkg_c/CMakeFiles/install/strip.dir
